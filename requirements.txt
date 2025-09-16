@@ -1,4 +1,4 @@
-py-cord==2.5.0
+python==3.12.6
 Pillow
 aiohttp
 colorama
